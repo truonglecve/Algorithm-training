@@ -8,7 +8,8 @@ let twoSum = function (nums, target) {
                 output.push(i);
                 output.push(j);
             } 
+        }
+        
     }
     return output;
-}
 }
